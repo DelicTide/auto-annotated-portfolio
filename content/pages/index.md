@@ -199,5 +199,5 @@ socialImage: >-
 metaTags:
   - type: MetaTag
     property: 'og:title'
-    content: ''
+    content: Neo Motion
 ---
