@@ -194,4 +194,6 @@ sections:
       text:
         textAlign: left
 metaDescription: 'windows, edm, cyber punk, nomad, hippy'
+socialImage: >-
+  /images/Eden_creation_tashidelic_Futuristic,-upbeat,-chaos_671846a85543c7a72222f649.png
 ---
